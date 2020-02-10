@@ -1,6 +1,6 @@
 {
     "name": "skyraptor/squad-maps-php",
-    "description": "Squad's map names for MapRotation.cfg",
+    "description": "Squad's map names for MapRotation.cfg in PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
