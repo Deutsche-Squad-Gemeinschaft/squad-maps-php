@@ -1,0 +1,26 @@
+{
+    "name": "skyraptor/squad-maps-php",
+    "description": "Squad's map names for MapRotation.cfg",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Henninger",
+            "email": "privat@skyraptor.eu"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SquadMaps\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SquadMaps\\Tests\\": "tests/"
+        }
+    }
+}
